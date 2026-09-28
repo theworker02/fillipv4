@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fillipv4",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fill structured JSON ipv4 payloads without a heavyweight toolkit.",
+  "bin": {
+    "fillipv4": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fillipv4.git"
+  },
+  "homepage": "https://theworker02.github.io/fillipv4/",
+  "keywords": [
+    "fill",
+    "ipv4",
+    "json",
+    "cli",
+    "toolkit"
+  ]
+}
